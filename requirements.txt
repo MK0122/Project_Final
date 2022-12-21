@@ -9,7 +9,7 @@ markupsafe==2.1.1
 matplotlib==3.5.1
 munkres==1.1.4
 nltk==3.7
-numpy==1.19.5
+numpy==1.20
 oauthlib==3.2.0
 pandas==1.4.1
 pandas-datareader==0.10.0
