@@ -76,7 +76,6 @@ werkzeug==2.0.3
 widgetsnbextension==3.6.0
 wrapt==1.12.1
 zipp==3.7.0
-zlib==1.2.11
 zstd==1.5.2
 validators==0.20.0
 webencodings==0.5.1
