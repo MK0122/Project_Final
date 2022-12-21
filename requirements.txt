@@ -24,7 +24,6 @@ prometheus_client==0.13.1
 prompt-toolkit==3.0.27
 prompt_toolkit==3.0.27
 psutil==5.9.0
-pure_eval==0.2.2
 python==3.9.12
 pysocks==1.7.1
 python-dateutil==2.8.2
