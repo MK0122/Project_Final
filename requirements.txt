@@ -100,7 +100,6 @@ gym==0.23.1
 gym-notices==0.0.6
 kaggle==1.5.12
 keras==2.8.0
-keras-nightly==2.5.0.dev202103290
 markdown==3.3.6
 nltk==3.7
 numpy==1.22.3
