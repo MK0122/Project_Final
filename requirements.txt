@@ -28,7 +28,6 @@ ptyprocess==0.7.0
 pure_eval==0.2.2
 pycparser==2.21
 pygments==2.11.2
-pyopenssl==22.0.0
 python==3.9.12
 pysocks==1.7.1
 python-dateutil==2.8.2
