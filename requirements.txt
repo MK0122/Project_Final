@@ -1,4 +1,4 @@
-absl-py=0.10.0
+absl-py==0.10.0
 altair==4.2.0
 kaggle==1.5.12
 keras==2.8.0
