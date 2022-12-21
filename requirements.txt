@@ -138,7 +138,7 @@ textblob==0.17.1
 toml==0.10.2
 toolz==0.12.0
 tweepy==4.12.1
-typing-extensions==4.4.0
+typing-extensions==3.7.4
 tzdata==2022.7
 tzlocal==4.2
 validators==0.20.0
