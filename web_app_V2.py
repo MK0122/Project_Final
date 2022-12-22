@@ -208,7 +208,7 @@ def main():
             a=len(df[df["Sentiment"]=="Positive"])
             b=len(df[df["Sentiment"]=="Negative"])
             d=np.array([a,b])
-            explode = (0.1, 0.0, 0.1)
+            explode = (0.1, 0.1)
             st.write(plt.pie(d,shadow=True,explode=explode,labels=["Positive","Negative"],autopct='%1.2f%%'))
             st.pyplot()
             
