@@ -249,7 +249,7 @@ def main():
         
         #Wordcloud for Negative tweets only       
         if st.button("Get WordCloud for all Negative Tweets about {}".format(Topic)):
-            st.success("Generating A WordCloud for all Positive Tweets about {}".format(Topic))
+            st.success("Generating A WordCloud for all Negative Tweets about {}".format(Topic))
             text_negative = " ".join(review for review in df[df["Sentiment"]=="Negative"].clean_tweet)
             stop_words = set(stopwords.words('english'))
             text_new_negative = prepCloud(text_negative,Topic)
