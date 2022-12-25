@@ -59,10 +59,10 @@ def main():
 
     ################# Twitter API Connection #######################
     
-    consumer_key = 'ImIwIsuwkDdFrA4oxX6rhWaCL'
-    consumer_secret = 'ueCO37JSmztl0bDcMuQ7wTD7UdH3g33erZk87vbMhnTKVp3zeW'
-    access_token = '1591848292161298432-pIgJDR5zxxfFKg4lCL0678IrQ9ICli'
-    access_token_secret = 'RH2EuWtV3JmSebLJhIc0QrMzpq0Q6TfQ7xmxLyqSMy8cd'
+    consumer_key = 'XXX'
+    consumer_secret = 'XXX'
+    access_token = 'XXX-XXX'
+    access_token_secret = 'XXX'
 
 
 
