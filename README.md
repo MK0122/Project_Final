@@ -12,4 +12,4 @@ tokenizer.pickle -> Saved Tokenizer used in the Convolutional Neural Network (CN
 
 requirements.txt -> All the libraries and packages required for deployment in Streamlit
 
-web_app_V2.py -> Python Script for the sentiment analysis tool
+web_app_V2.py -> Python Script for the sentiment analysis tool. The Twitter API credentials have been removed for security concerns.
